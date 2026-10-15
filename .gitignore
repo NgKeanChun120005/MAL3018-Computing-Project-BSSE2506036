@@ -22,3 +22,6 @@ Thumbs.db
 build/
 *.bin
 *.elf
+
+# Ignore secrets
+secrets.h
