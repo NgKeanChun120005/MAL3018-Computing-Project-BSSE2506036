@@ -4,8 +4,8 @@
 An IoT-enabled dual-bin smart recycling system for paper and metal in large indoor institutional facilities. Features real-time weight monitoring, automated lid control, and a mobile application with statistics dashboard.
 
 ## Current Status
-- [x] Sprint 1: Cloud Database & Data Transmission (in progress)
-- [ ] Sprint 2: Sensor Integration
+- [x] Sprint 1: Cloud Database & Data Transmission
+- [ ] Sprint 2: Sensor Integration (In Progress)
 - [ ] Sprint 3: Mobile App Development
 - [ ] Sprint 4: Testing & Refinement
 
