@@ -1,0 +1,19 @@
+## Sprint 2: Sensor Integration (Load Cell + HX711, PIR Sensor, Servo Motor)
+
+## Dates
+15-10-2026 - []
+
+## Goal
+ESP32 must read accurate weight data from the load cell, detect motion from the PIR sensor, control the servo motor for lid opening, and transmit real sensor data to Firebase Firestore.
+
+## Tasks
+- [X] Successfully wire Load Cell + HX711 to ESP32 and test its initial responsiveness
+- [] Write Load Cell Calibration Code
+- [] Calibrate Load Cell
+- [] successfully connect PIR Sensor to ESP32
+- [] Write PIR Detection Code, so that it detect motion and print status to Serial Monitor
+- [] Write Servo Control Code; Open lid when motion detected, close after delay
+- [] Combine load cell, PIR, and servo into one
+- [] Update Firebase write code, replace Test Data with Real Sensor Data
+- [] Test End-to-End
+- [] Document Sprint Progress
