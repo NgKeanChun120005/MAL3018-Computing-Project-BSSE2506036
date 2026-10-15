@@ -1,0 +1,24 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Secrets
+secrets.h
+.env
+*.key.json
+
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+build/
+*.bin
+*.elf
